@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello 👋 I'm Gabriel Quinn
+---
 
-<!--
-**GabrielQuinn/GabrielQuinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⭐ Introduction ⭐
 
-Here are some ideas to get you started:
+I am a student at Trent Univeristy in the computer science co-op program. I am specializing in software engineering. I enjoy making websites in React and computer games in Lua or C++. I have a cat named Smokey 🐈. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⭐ Experience ⭐
+
+- Card Collector
+  - React/TS Frontend
+  - PHP Backend
+  - MySQL DB
+  - Pokemon TCG SDK
+
+- C++ Game
+  - SFML Library
+  - OOP Concepts
+
+- Finance Tracker
+  - Plaid API
+  - Node Backend
+  - MongoDB
+
+- Planted
+  - PHP Backend
+  - MySQL DB
